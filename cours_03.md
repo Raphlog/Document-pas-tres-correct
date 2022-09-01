@@ -4,6 +4,8 @@
 ### Présentation
 Parlez de vous. 
 
+Je m'appelle Raphael goovaerts. Je suis 
+
 ### Intérêts dans le domaine
 Parlez de vos intérêts en multimédia. 
 
