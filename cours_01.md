@@ -9,5 +9,8 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 [Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
 
-J'ai choissi Tim a cause de mon intérest pour l'informatique et surtout tout se qui entoure l'animation ou le dessin graphique. 
-Au debut, les choses que ce programme proposais était avait pas toute l'air bon mais quand j'ai vus 
+J'ai choissi Tim a cause de mon intérest pour l'informatique et surtout tout se qui entoure l'animation ou l'art digital. 
+Au debut, les choses que ce programme proposais était avait pas toute l'air bon mais quand j'ai vus le cour de Dessin graphiqe et les
+multiple proposition qui pourrais me plaire, mon envie de rejoindre a grandi et a la fin, j'ai finalement accepter.
+J'adore les jeux vidéo et créer des chose (se qui explique un peu pourquoi j'adore jouer a Minecraft ou terraria 😅).
+Mon cour favorit cette année sera probablement Dessin graphique. C'est vraiment fun!
