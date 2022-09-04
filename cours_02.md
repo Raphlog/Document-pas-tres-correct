@@ -6,7 +6,7 @@ Exemple:
 ### Bulle](https://www.onf.ca/interactif/bulle/) 
 L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
-### [Valve](:https://www.valvesoftware.com/fr/)
+### [Valve](https://www.valvesoftware.com/fr/)
 La compagnie Valve m’inspire beaucoup a cause de la facon à laquelle il on réussi 
 a gagné une si grande clientèle avec très peu de jeux. C’est cela qui me convainc de me forcer au maximum quand je fais un projet pour qu’il soit parfait et plaisant pour d'autres personnes. 
 
